@@ -10,7 +10,7 @@
     "link": "https://www.google.com/ncr/"
   },
   {
-    "icon": "Notepad12Regular",
+    "icon": "StickyNote",
     "name": "笔记",
     "link": "https://note.zlcom.pp.ua/list/"
   },
@@ -20,7 +20,7 @@
     "link": "https://panel.zlcom.pp.ua/"
   },
   {
-    "icon": "ImagesOutline",
+    "icon": "Images",
     "name": "图床",
     "link": "https://tggraph.zlcom.pp.ua/"
   },
